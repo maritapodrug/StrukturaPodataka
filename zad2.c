@@ -1,9 +1,9 @@
-/*2. Definirati strukturu osoba (ime, prezime, godina roðenja) i napisati program koji:
-A.dinamièki dodaje novi element na poèetak liste,
+/*2. Definirati strukturu osoba (ime, prezime, godina roÃ°enja) i napisati program koji:
+A.dinamiÃ¨ki dodaje novi element na poÃ¨etak liste,
 B.ispisuje listu,
-C.dinamièki dodaje novi element na kraj liste,
+C.dinamiÃ¨ki dodaje novi element na kraj liste,
 D.pronalazi element u listi(po prezimenu),
-E.briše odreðeni element iz liste,
+E.briÅ¡e odreÃ°eni element iz liste,
 U zadatku se ne smiju koristiti globalne varijable*/
 
 #define _CRT_SECURE_NO_WARNINGS
@@ -200,7 +200,7 @@ void menu(position head)
 			printlist(head->next);
 			break;
 		case'x':
-			break;
+			return 0;
 		default:printf("Wrong letter!");
 			break;
 
