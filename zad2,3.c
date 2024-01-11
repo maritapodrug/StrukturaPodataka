@@ -4,7 +4,14 @@ B.ispisuje listu,
 C.dinamièki dodaje novi element na kraj liste,
 D.pronalazi element u listi(po prezimenu),
 E.briše odreðeni element iz liste,
-U zadatku se ne smiju koristiti globalne varijable*/
+U zadatku se ne smiju koristiti globalne varijable
+
+3. Prethodnom zadatku dodati funkcije:
+A. dinamički dodaje novi element iza određenog elementa,
+B. dinamički dodaje novi element ispred određenog elementa,
+C. sortira listu po prezimenima osoba,
+D. upisuje listu u datoteku,
+E. čita listu iz datoteke.*/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
