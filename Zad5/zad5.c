@@ -1,3 +1,6 @@
+/*5. Napisati program koji iz datoteke čita postfiks izraz i zatim korištenjem stoga računa
+rezultat. Stog je potrebno realizirati preko vezane liste.*/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
