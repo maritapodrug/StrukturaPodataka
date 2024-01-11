@@ -1,0 +1,6 @@
+﻿  zad2_3.c
+C:\Users\marit\OneDrive\Radna površina\Zad2,3\zad2_3.c(63,3): warning C4047: 'return': 'pos' differs in levels of indirection from 'int'
+C:\Users\marit\OneDrive\Radna površina\Zad2,3\zad2_3.c(98,12): warning C4098: 'printlist': 'void' function returning a value
+C:\Users\marit\OneDrive\Radna površina\Zad2,3\zad2_3.c(224,12): warning C4098: 'printtofile': 'void' function returning a value
+C:\Users\marit\OneDrive\Radna površina\Zad2,3\zad2_3.c(314,10): warning C4098: 'menu': 'void' function returning a value
+  Zad2,3.vcxproj -> C:\Users\marit\OneDrive\Radna površina\Zad2,3\x64\Debug\Zad2,3.exe
