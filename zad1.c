@@ -48,6 +48,12 @@ student* memallocandreadstudents(int numrow) {
 
 	st = (student*)malloc(numrow * sizeof(student));
 
+	if(!st)
+	{
+		printf("Failed to allocate memory!");
+		return -1;
+	}
+	
 	fp = fopen("imena.txt", "r");
 
 	if (fp == NULL)
@@ -80,13 +86,12 @@ void printstudents(int number, student* st)
 int main()
 {
 	int count = rowcounter();
-	student* student;
+	student* student=NULL;
 
 	if (count > 0) {
 		student = memallocandreadstudents(count);
 		printstudents(count, student);
 		free(student);
-
 	}
 
 	return 0;
