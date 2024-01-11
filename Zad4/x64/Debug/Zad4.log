@@ -1,0 +1,4 @@
+﻿  zad4.c
+C:\Users\marit\OneDrive\Radna površina\Zad4\zad4.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\marit\OneDrive\Radna površina\Zad4\zad4.c(1,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  Zad4.vcxproj -> C:\Users\marit\OneDrive\Radna površina\Zad4\x64\Debug\Zad4.exe
