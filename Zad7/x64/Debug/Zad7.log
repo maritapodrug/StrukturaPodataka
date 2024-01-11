@@ -1,0 +1,6 @@
+﻿  zad7.c
+C:\Users\marit\OneDrive\Radna površina\Zad7\zad7.c(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  C:\Users\marit\OneDrive\Radna površina\Zad7\zad7.c(6,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  Zad7.vcxproj -> C:\Users\marit\OneDrive\Radna površina\Zad7\x64\Debug\Zad7.exe
