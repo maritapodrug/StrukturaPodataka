@@ -1,0 +1,4 @@
+﻿  zad1.c
+C:\Users\marit\OneDrive\Radna površina\Zad1\zad1.c(62,3): warning C4047: 'return': 'student *' differs in levels of indirection from 'int'
+C:\Users\marit\OneDrive\Radna površina\Zad1\zad1.c(70,3): warning C4047: 'return': 'student *' differs in levels of indirection from 'int'
+  Zad1.vcxproj -> C:\Users\marit\OneDrive\Radna površina\Zad1\x64\Debug\Zad1.exe
