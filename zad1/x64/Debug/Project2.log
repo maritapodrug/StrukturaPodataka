@@ -1,3 +1,0 @@
-﻿  FileName.c
-C:\Users\marit\source\repos\Project22\Project2\FileName.c(56,3): warning C4047: 'return': 'student *' differs in levels of indirection from 'int'
-  Project2.vcxproj -> C:\Users\marit\source\repos\Project22\Project2\x64\Debug\Project2.exe
