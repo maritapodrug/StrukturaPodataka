@@ -1,0 +1,3 @@
+Dusseldorf, 620000
+Berlin, 3650000
+Munchen, 1472000

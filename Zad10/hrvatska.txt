@@ -1,0 +1,4 @@
+Split, 160000
+Dubrovnik, 43000
+Zagreb, 800000
+Osijek, 85000
